@@ -8,7 +8,8 @@ module.exports = {
         //"next",
         //"plugin:@typescript-eslint/recommended",
         //'plugin:@next/next/recommended',
-        //"plugin:react/recommended"
+        //"plugin:react/recommended",
+        "next/core-web-vitals"
     ],
     "overrides": [
         {
